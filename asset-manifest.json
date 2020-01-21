@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-applications/static/css/main.3bff0630.chunk.css",
+    "main.js": "/react-applications/static/js/main.6caff4ab.chunk.js",
+    "main.js.map": "/react-applications/static/js/main.6caff4ab.chunk.js.map",
+    "runtime~main.js": "/react-applications/static/js/runtime~main.3792a09d.js",
+    "runtime~main.js.map": "/react-applications/static/js/runtime~main.3792a09d.js.map",
+    "static/css/2.db15d63e.chunk.css": "/react-applications/static/css/2.db15d63e.chunk.css",
+    "static/js/2.cda5968c.chunk.js": "/react-applications/static/js/2.cda5968c.chunk.js",
+    "static/js/2.cda5968c.chunk.js.map": "/react-applications/static/js/2.cda5968c.chunk.js.map",
+    "index.html": "/react-applications/index.html",
+    "precache-manifest.b2112ea05e2a630df3960d2ad4fa875a.js": "/react-applications/precache-manifest.b2112ea05e2a630df3960d2ad4fa875a.js",
+    "service-worker.js": "/react-applications/service-worker.js",
+    "static/css/2.db15d63e.chunk.css.map": "/react-applications/static/css/2.db15d63e.chunk.css.map",
+    "static/css/main.3bff0630.chunk.css.map": "/react-applications/static/css/main.3bff0630.chunk.css.map",
+    "static/media/bata1.jpg": "/react-applications/static/media/bata1.94032ade.jpg",
+    "static/media/bata2.jpg": "/react-applications/static/media/bata2.6cec9f3f.jpg",
+    "static/media/bata4.jpg": "/react-applications/static/media/bata4.a0530f5a.jpg",
+    "static/media/index.css": "/react-applications/static/media/bata5.cf9d1f8f.jpg",
+    "static/media/font-awesome.min.css": "/react-applications/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/profpic.png": "/react-applications/static/media/profpic.99ea6929.png"
+  }
+}
